@@ -1,0 +1,67 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "window.titleBarStyle":"custom",
+    "window.zoomLevel": 0,
+    "workbench.activityBar.visible": true,
+    "workbench.colorTheme": "City Lights",
+    "workbench.iconTheme": "eq-material-theme-icons-palenight",
+    
+    "editor.fontSize":14,
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "editor.fontWeight": "500",
+    "explorer.autoReveal": false,
+    "editor.renderIndentGuides": false,
+    "editor.cursorBlinking": "phase",
+    "editor.cursorStyle": "line",
+    "editor.renderWhitespace": "all",
+    "materialTheme.cache.workbench.settings": {
+        "themeColours": "Darker",
+        "accent": "Yellow",
+        "accentPrevious": "Orange"
+    },
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#F44336",
+        "list.activeSelectionForeground": "#F44336",
+        "list.inactiveSelectionForeground": "#F44336",
+        "list.highlightForeground": "#F44336",
+        "scrollbarSlider.activeBackground": "#F4433650",
+        "editorSuggestWidget.highlightForeground": "#F44336",
+        "textLink.foreground": "#F44336",
+        "progressBar.background": "#F44336",
+        "pickerGroup.foreground": "#F44336",
+        "tab.activeBorder": "#F44336",
+        "notificationLink.foreground": "#F44336",
+        "editorWidget.resizeBorder": "#F44336",
+        "editorWidget.border": "#F44336",
+        "settings.modifiedItemForeground": "#F44336",
+        "panelTitle.activeBorder": "#F44336"
+    },
+    "window.menuBarVisibility": "visible",
+    "editor.minimap.enabled": false,
+    "workbench.sideBar.location": "left",
+    "editor.renderControlCharacters": true,
+    "git.autofetch": true,
+    "codedox": {
+        "fileheader": {
+            "templates": {
+                "*": [
+                    "${license_apache_2_0}"
+                ]
+            },
+            "params": {
+                "haxe": {
+                    "company": "dmitryhryppa"
+                },
+                "*": {
+                    "company": "Dmitry Hryppa, @dmitryhryppa"
+                }
+            }
+        }
+    },
+    "materialTheme.fixIconsRunning": false,
+    "haxe.enableCodeLens": false,
+    "materialTheme.accentPrevious": "Cyan",
+    "materialTheme.accent": "Tomato",
+    "breadcrumbs.enabled": true
+    //"editor.fontWeight": "bold"
+}
